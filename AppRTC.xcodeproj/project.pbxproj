@@ -382,6 +382,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Lib",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.videochat.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -400,6 +401,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Lib",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.videochat.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
